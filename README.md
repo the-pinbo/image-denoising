@@ -9,7 +9,7 @@
 
 ## **Image Restoration without Denoised Priors**
 
-## **MENTORS**
+## **MEMBERS**
 
 - Inbasekaran Perumal : inba2002.p\@gmail.com
 - Pranav Koundinya : pranavmkoundinya\@gmail.com
